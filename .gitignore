@@ -2,6 +2,14 @@
 run.py
 settings.py
 
+# Pycharm
+install.sh
+.idea
+.idea/*.xml
+.idea/scopes/*.xml
+.idea/inspectionProfiles/*.xml
+atlassian-ide-plugin.xml
+
 # Python
 *.py[co]
 
